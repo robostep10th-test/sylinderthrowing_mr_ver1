@@ -1,0 +1,2 @@
+﻿"shaft_length"= 117.5
+"D1@ﾎﾞｽ - 押し出し1"="shaft_length"
